@@ -1,7 +1,7 @@
 ## ✌️ Hi, honey!
 ### 💻 I'm a noob dev trying to join in full-stack.
 ### 🎮 Gamer and digital drawner.
-### 📚 Studying Python, JavaScript, C, HTML and CSS.
+### 📚 Studying Python, C, JavaScript, HTML and CSS.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhide_italo/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198849398018/)
