@@ -1,4 +1,4 @@
-## ✌️ Hi, honey!
+## ✌️ Hi hi!
 ### 💻 I'm a noob dev trying to join in full-stack.
 ### 🎮 Gamer and digital drawner.
 ### 📚 Studying Python, C, JavaScript, HTML and CSS.
